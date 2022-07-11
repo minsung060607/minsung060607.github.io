@@ -9,7 +9,7 @@
 </head>
 <body>
 <div id="board_area"> 
-  <h1><a href="Test/index.html">MW 게시판</a></h1>
+  <h1><a href="index.html">MW 게시판</a></h1>
   <h4>유저들이 자유롭게 소통하는 곳 입니다.</h4>
     <table class="list-table">
       <thead>
